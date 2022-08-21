@@ -1,9 +1,9 @@
 ## A list to append/change in order to track changes in a version controlled file
 
-1. Create file
-2. Stage 
-3. Commit first version
-4. Change file
+1. Create file - DONE
+2. Stage - DONE
+3. Commit first version - DONE
+4. Change file - DONE
 5. Stage again
 6. Commit second version
 7. Branch
@@ -11,3 +11,4 @@
 9. Make changes to main version
 10. Merge two documents (unsure of this procedure)
 11. Collaborate
+complete
