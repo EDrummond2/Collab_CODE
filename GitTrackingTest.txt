@@ -12,3 +12,5 @@
 10. Merge two documents (unsure of this procedure)
 11. Collaborate
 complete
+12. This change was made by Melissa-cm
+13. New .txt version will be staged, commited and pushed to melissa-cm repo
